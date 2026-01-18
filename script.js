@@ -1,5 +1,6 @@
 // Local testing
- const API_URL = "http://localhost:8080/api/customers";
+const API_URL = "/api/customers";
+
 
 // AWS deployment
 //const API_URL = "http://<backend-alb-dns>:8080/api/customers";
