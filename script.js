@@ -1,5 +1,5 @@
 // Local testing
-const API_URL = "http://10.0.3.249:8080/api/customers";
+const API_URL = "/api/customers";
 
 
 // AWS deployment
